@@ -1,5 +1,5 @@
 # ebs-back
-<h3><a href="./ebs_API_명세서">✔ API 명세서 바로가기</a></h3>   
+<h3><a href="./ebs_API_명세서.pdf">✔ API 명세서 바로가기</a></h3>   
 
 
 ### ✔ RDS 서버 정보
