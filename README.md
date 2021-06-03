@@ -1,6 +1,8 @@
 # ebs-back
+<h3><a href="ebs_API 명세서">✔ API 명세서 바로가기</a></h3>   
 
-### RDS 서버 정보
+
+### ✔ RDS 서버 정보
 서버: ebs-1.chfxyv6nkcdn.ap-northeast-2.rds.amazonaws.com   
 포트: 3306   
 id: admin_ebs    
@@ -12,7 +14,7 @@ mysql -u admin_ebs -h ebs-1.chfxyv6nkcdn.ap-northeast-2.rds.amazonaws.com -p
 ```
 - - -
 
-### references
+### ✏ references
 - MyBatis    
 
 https://velog.io/@ghd64845/Spring-boot-MyBatis%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-MySQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0   
