@@ -6,4 +6,5 @@ import java.util.List;
 
 public interface CategoryDAO {
     List<CategoryDTO> selectCategory(CategoryDTO param) throws Exception;
+    CategoryDTO selectCategoryById(int categoryId) throws Exception;
 }
