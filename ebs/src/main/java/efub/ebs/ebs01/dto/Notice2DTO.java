@@ -7,9 +7,8 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class CategoryDTO {
+public class Notice2DTO {
     private int id;
-    private String name;
-    private String link;
-
+    private String title;
+    private String description;
 }
