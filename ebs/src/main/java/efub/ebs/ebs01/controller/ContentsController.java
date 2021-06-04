@@ -16,7 +16,7 @@ public class ContentsController {
 
     @GetMapping("/contents")
     public List<ContentsDTO> getContentsList() throws Exception {
-        final ContentsDTO param = new ContentsDTO(0, null, null);
+        final ContentsDTO param = new ContentsDTO(0, null, null, null);
         final List<ContentsDTO> contentsList = contentsDAO.selectContents(param);// 윗줄에서 생성한 객체를 파라미터로 전달하여 DB로부터 사용자 목록을 불러온다.
         return contentsList;
     }
