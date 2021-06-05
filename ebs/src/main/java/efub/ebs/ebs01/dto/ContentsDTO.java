@@ -9,7 +9,8 @@ import lombok.Setter;
 @Setter
 public class ContentsDTO {
     private int id;
-    private String title;
+    private String off_img;
+    private String on_img;
     private String description;
-
+    private String link;
 }
