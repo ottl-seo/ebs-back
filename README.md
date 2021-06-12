@@ -6,7 +6,7 @@
 서버: ebs-1.chfxyv6nkcdn.ap-northeast-2.rds.amazonaws.com   
 포트: 3306   
 id: admin_ebs    
-pw: 11111111
+pw: -
 
 - 접근 방법
 ```
